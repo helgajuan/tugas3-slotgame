@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string-array name="images">
+            <item>https://cdn-icons-png.flaticon.com/512/3531/3531044.png</item>
+            <item>https://cdn-icons-png.flaticon.com/512/2102/2102198.png</item>
+            <item>https://cdn-icons-png.flaticon.com/512/247/247810.png</item>
+        </string-array>
+
+</resources>
